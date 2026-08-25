@@ -1,0 +1,10 @@
+# Dataset and generated model artifacts
+data/
+outputs/*.pt
+outputs/*.h5
+
+# Logs, Python caches, and local environment files
+*.log
+__pycache__/
+.DS_Store
+.venv/
