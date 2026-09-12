@@ -1,0 +1,17 @@
+interaction_type,residue,res_chain,distance,details
+Hydrogen Bond,TYR H:96,H,3.014466951220399,protein_atom=Nam (4774); ligand_atom=O2 (2); angle=167.15458585111242
+Hydrogen Bond,ARG L:96,L,2.903881023733583,protein_atom=Ng+ (1472); ligand_atom=O3 (7); angle=151.5852840033223
+Hydrogen Bond,ARG L:96,L,3.2759971001208195,protein_atom=Ng+ (1475); ligand_atom=O3 (3); angle=154.5741045930611
+Hydrogen Bond,HIS H:35,H,3.0268092110339566,protein_atom=Nar (3771); ligand_atom=O3 (3); angle=114.99338302819757
+Hydrogen Bond,TYR H:96,H,2.9468953154124775,protein_atom=Nam (8); ligand_atom=O2 (4777); angle=150.86489391332836
+Hydrophobic Contact,TYR L:36,L,3.9794102578145965,protein_atom=Car (526); ligand_atom=C3 (9); angle=None
+Hydrophobic Contact,TYR L:91,L,3.9171640251590154,protein_atom=Car (1395); ligand_atom=C3 (12); angle=None
+Hydrophobic Contact,TYR L:91,L,3.7759577592976306,protein_atom=Car (1396); ligand_atom=C3 (9); angle=None
+Hydrophobic Contact,TYR L:91,L,3.833781553505624,protein_atom=Car (1398); ligand_atom=C3 (10); angle=None
+Hydrophobic Contact,ARG L:96,L,3.6344867588147887,protein_atom=C3 (1470); ligand_atom=Car (18); angle=None
+Hydrophobic Contact,TYR H:97,H,3.9347490390112583,protein_atom=Car (4802); ligand_atom=C3 (19); angle=None
+Hydrophobic Contact,TRP H:103,H,3.854472077989409,protein_atom=Car (4934); ligand_atom=Car (11); angle=None
+Hydrophobic Contact,LEU L:89,L,3.4886021555918356,protein_atom=C3 (1361); ligand_atom=Car (17); angle=None
+Hydrophobic Contact,PHE L:98,L,3.491045115721079,protein_atom=Car (1513); ligand_atom=Car (11); angle=None
+Hydrophobic Contact,LYS H:93,H,3.5093738757789823,protein_atom=C3 (4727); ligand_atom=Car (13); angle=None
+Pi-Stacking,HIS H:35,H,4.616279327794429,protein_atom=?; ligand_atom=?; angle=62.406145802517216; offset=0.7094631237941859; type=T

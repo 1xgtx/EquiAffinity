@@ -2,6 +2,7 @@
 data/
 outputs/*.pt
 outputs/*.h5
+outputs/*_complex_for_plip.pdb
 
 # Logs, Python caches, and local environment files
 *.log
